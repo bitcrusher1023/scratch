@@ -6,9 +6,7 @@
 <h4 align='center'>A step-by-step tutorial to setting up a modern React app with no boilerplate.</h4>
 
 <br />
-
 <hr />
-
 ## 📋 Table of Contents
 
 1. [Running as a boilerplate](#%EF%B8%8F-running-as-a-boilerplate)
